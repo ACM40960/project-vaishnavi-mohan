@@ -51,10 +51,10 @@ Contributions to this repository are welcome! If you find any issues or want to 
 Please make sure to adhere to the existing code style and follow best practices for machine learning model evaluation, web development, and explainable AI.
 
 ## License
-This project is licensed under the 
+This project is licensed under the MIT License
 
 ## Credits
-This project is in collaboration with (Monica J raju)[]
+This project is in collaboration with [Monica J raju](https://github.com/ACM40960/project-22200376)
 
 
 Thank you for using this Jupyter Notebook for heart stroke prediction and incorporating Explainable AI to better understand the model's decisions. If you have any questions or need further assistance, please feel free to reach out to the repository maintainers. Happy predicting and helping save lives!
