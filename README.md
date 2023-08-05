@@ -35,7 +35,7 @@ The Python code in this repository leverages **scikit-learn** and other relevant
 4. The dashboard will be accessible at [this URL](http://127.0.0.1:8051/)
 
 You will majorly need the following Python libraries to run this notebook:
-```pip install matplotlib.pyplot scikit-learn shap dash```
+```pip install pandas numpy matplotlib.pyplot scikit-learn shap dash```
 
 ## Explainable AI
 The project incorporates Explainable AI techniques to enhance model interpretability. It utilizes techniques such as:
