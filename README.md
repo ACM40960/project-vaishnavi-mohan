@@ -27,11 +27,11 @@ The Python code in this repository leverages **scikit-learn** and other relevant
 1. Download this Jupyter Notebook to your local machine.
 2. Install the required dependencies mentioned below.
 3. Run the notebook cells step-by-step to
-  - perform EDA
-  - pre-process the data to achieve required format
-  - fit ML model, evaluate and compare them
-  - use the best-performing model for **RISK STRATIFICATION**
-  - build a web-based dashboard.
+      - perform EDA
+      - pre-process the data to achieve required format
+      - fit ML model, evaluate and compare them
+      - use the best-performing model for **RISK STRATIFICATION**
+      - build a web-based dashboard.
 4. The dashboard will be accessible at [this URL](http://127.0.0.1:8051/)
 
 You will majorly need the following Python libraries to run this notebook:
