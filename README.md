@@ -73,7 +73,7 @@ Contributions to this repository are welcome! If you would like to suggest bette
 This project is licensed under the MIT License
 
 ## Credits
-This project is in collaboration with [Monica J raju](https://github.com/ACM40960/project-22200376)
+This project is in collaboration with [Monica J raju](https://github.com/ACM40960/project-MonicaJanardhanRaju)
 
 
 Thank you for using our Jupyter Notebook :)
